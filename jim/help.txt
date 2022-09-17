@@ -1,0 +1,5 @@
+ping prints pong back
+exit closes the terminal
+cl clears the screen
+name prints the pc username
+date prints the date and time
